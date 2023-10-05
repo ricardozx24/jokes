@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  background: linear-gradient(white, gray);
+}
+
+.divider--line {
+  height: 10px;
+  width: auto;
+  background-color: aquamarine;
+}
